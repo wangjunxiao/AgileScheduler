@@ -1,4 +1,4 @@
-#Prerequisites
+# Prerequisites
   
 1. underlying openflow network need to consist of ofcontroller, ofswitch and host. you can choose floodlight or ryu this like open source ofcontroller to do this work. as for ofswitch and host, you can simply choose mininet to substitute for them, of course, can also use physical ofsiwitch and host.
 
@@ -6,7 +6,7 @@
 
 3. you need a tool for sending httpRequest to Coordinator, such as Postman.
 
-#Startup
+# Startup
 
 1. configure underlying openflow network. here, we use the example of floodlight and mininet.
 
@@ -65,6 +65,6 @@
 
         enjoy !
 
-#Credits
+# Credits
 
 1. mininet 2. floodlight 3. Postman
