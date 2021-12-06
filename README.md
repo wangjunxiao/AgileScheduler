@@ -1,7 +1,7 @@
 #### Dynamic SDN Control Plane Request Assignment in NFV Datacenters,
 published in *IEEE Transactions on Network Science and Engineering*.
 
-Please find the manuscript from [here](http://jxiao.wang/papers/dynamic-tnse.pdf).
+Please find the manuscript from [here](https://ieeexplore.ieee.org/document/9311437).
 
 ## Overview
 
