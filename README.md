@@ -5,33 +5,25 @@ Please find the manuscript from [here](https://ieeexplore.ieee.org/document/9311
 
 ## Overview
 
->
->![overview](overview.png)
->
-
 The Coordinator is a protosystem for coordinated controller replica selection architecture in multi-controller SDN. The Coordinator is highly inspired by On.lab's OpenVirtex project.
+
+![overview](overview.png)
 
 ## Features
 
 1. Proxy for LLDP and OFHandShake.
 
->
->![feature1](features1.png)
->
+![feature1](features1.png)
 
 2. Proxy for OFStatistics.
 
->
->![feature2](features2.png)
->
+![feature2](features2.png)
 
 3. Customized controller replica selection scheme, southbound -> northbound (select replica for OFPacketIn), northbound -> southbound (send OFPacketOut to downstream).
 
->
->![feature3](features3.png)
->
+![feature3](features3.png)
 
-## Content Catalog
+## Catalog
 
 1. coordinator_deployable: providing compiled deployable version.
 2. coordinator_source: providing version of source code, can be re compiled.
